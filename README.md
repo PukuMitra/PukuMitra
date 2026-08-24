@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Hello World! I'm Pulakita Mitra
+**Transforming ideas into seamless mobile and web experiences.**
 
-<!--
-**PukuMitra/PukuMitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer who loves bridging the gap between elegant frontends and robust backends. Whether I'm crafting a snappy mobile app or architecting a scalable web platform, I thrive on building things that matter. 
 
-Here are some ideas to get you started:
+### ⚡ What I'm Up To
+*   📱 **Mobile Magic:** Crafting cross-platform apps with **React Native**.
+*   💻 **Web Architecture:** Building fast, responsive platforms using **Next.js**, **Node.js**, **MongoDB**, and **Mongoose**.
+*   🌱 **Always Evolving:** Exploring advanced patterns in the modern JavaScript ecosystem.
+*   🤝 **Collaborating:** Always open to exciting open-source projects and tech chats.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ The Tech Stack & Toolbox
+*   **Frontend & Mobile:** JavaScript, React, React Native, Next.js, Tailwind CSS
+*   **Backend & DB:** Node.js, Express, MongoDB, Mongoose
+*   **Version Control:** Git, GitHub
+
+### 📫 Let's Connect!
+[LinkedIn](linkedin.com/in/pulakita-mitra-307218363) | [email](pulakitamitra@gmail.com) | [Portfolio]( )
