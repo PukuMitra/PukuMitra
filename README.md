@@ -1,20 +1,15 @@
-### 👋 Hello World! I'm Pulakita Mitra
-**Transforming ideas into seamless mobile and web experiences.**
+# 💫 About Me:
+👋 Hello World! I'm Pulakita Mitra<br>Transforming ideas into seamless mobile and web experiences.<br><br>I'm a Full-Stack Developer who loves bridging the gap between elegant frontends and robust backends. Whether I'm crafting a snappy mobile app or architecting a scalable web platform, I thrive on building things that matter.<br><br>⚡ What I'm Up To<br>📱 Mobile Magic: Crafting cross-platform apps with React Native.<br>💻 Web Architecture: Building fast, responsive platforms using Next.js, Node.js, MongoDB, and Mongoose.<br>🌱 Always Evolving: Exploring advanced patterns in the modern JavaScript ecosystem.<br>🤝 Collaborating: Always open to exciting open-source projects and tech chats.<br>🛠️ The Tech Stack & Toolbox<br>Frontend & Mobile: JavaScript, React, React Native, Next.js, Tailwind CSS<br>Backend & DB: Node.js, Express, MongoDB, Mongoose<br>Version Control: Git, GitHub<br>📫 Let's Connect!<br>LinkedIn | email | Portfolio
 
-I'm a Full-Stack Developer who loves bridging the gap between elegant frontends and robust backends. Whether I'm crafting a snappy mobile app or architecting a scalable web platform, I thrive on building things that matter. 
 
-### ⚡ What I'm Up To
-*   📱 **Mobile Magic:** Crafting cross-platform apps with **React Native**.
-*   💻 **Web Architecture:** Building fast, responsive platforms using **Next.js**, **Node.js**, **MongoDB**, and **Mongoose**.
-*   🌱 **Always Evolving:** Exploring advanced patterns in the modern JavaScript ecosystem.
-*   🤝 **Collaborating:** Always open to exciting open-source projects and tech chats.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pulakita-mitra-307218363) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Pulakita Mitra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pulakitamitra@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=FF3366) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=PukuMitra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=PukuMitra&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PukuMitra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🛠️ The Tech Stack & Toolbox
-*   **Frontend & Mobile:** JavaScript, React, React Native, Next.js, Tailwind CSS
-*   **Backend & DB:** Node.js, Express, MongoDB, Mongoose
-*   **Version Control:** Git, GitHub
-
-### 📫 Let's Connect!
-[LinkedIn](linkedin.com/in/pulakita-mitra-307218363) | [email](pulakitamitra@gmail.com) | [Portfolio]( )
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
